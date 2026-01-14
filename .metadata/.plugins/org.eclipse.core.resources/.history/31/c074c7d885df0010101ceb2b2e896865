@@ -1,0 +1,12 @@
+
+public class program {
+	public static void main(String[] args) {
+		System.out.println("Olá mundo");
+	}	
+}
+
+void main() {
+	
+	IO.println("Olá mundo");
+	
+}
