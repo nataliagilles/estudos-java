@@ -20,6 +20,3 @@ O curso aborda a linguagem **Java desde o básico até conceitos avançados**, c
 
 ---
 
-## 🗂 Estrutura do Repositório
-
-A estrutura principal do repositório pode estar assim:
