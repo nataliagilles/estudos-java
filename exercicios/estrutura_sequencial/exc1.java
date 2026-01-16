@@ -1,6 +1,5 @@
 package exercicios.estrutura_sequencial;
 
-
 import java.util.Scanner;
 
 public class exc1 {
