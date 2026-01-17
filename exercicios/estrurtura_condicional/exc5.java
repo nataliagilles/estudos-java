@@ -6,7 +6,6 @@ public class exc5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-
 		int codigo = sc.nextInt();
 		int quantidade = sc.nextInt();
 		
