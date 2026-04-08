@@ -1,39 +1,44 @@
-# 🧩 Exercícios de POO em Java
+# Estudos Java ☕
 
-Esta pasta contém os exercícios de **Programação Orientada a Objetos (POO)** em Java do repositório.  
-Os exercícios foram organizados para **facilitar o estudo de classes, objetos, encapsulamento, métodos e execução de testes**.
+Repositório criado para registrar meus estudos em **Java**, com foco em lógica de programação e **Programação Orientada a Objetos (POO)**.
 
----
+## 📚 Conteúdos praticados
 
-## 📁 Estrutura
+* Sintaxe básica do Java
+* Estruturas condicionais e de repetição
+* Vetores e listas
+* Métodos e funções
+* Programação Orientada a Objetos:
 
-### 🧠 `entities/`  
-Contém as **classes principais** que representam entidades (objetos) do mundo real.  
-Cada classe:
-- Tem atributos privados com `getters` e `setters`
-- Pode ter construtores e métodos que realizam operações relevantes
-- Segue boas práticas de POO
+  * Classes e objetos
+  * Encapsulamento
+  * Construtores
+  * Organização em pacotes
 
-### 🚀 `application/`  
-Contém classes com o método `main` que **testam e executam as entidades**.  
-Cada arquivo representa um exercício/teste que usa as classes de `entities`.
+## 📂 Estrutura do repositório
 
----
+```
+estudos-java/
+ ├── aulas/
+ ├── exercicios/
+ └── outros exemplos
+```
 
-## 📌 Destaques
+Os conteúdos estão organizados por temas e listas de exercícios.
 
-- 💡 **Separação de responsabilidades**:  
-  - `entities/` → definição das classes (modelo de dados e lógica)
-  - `application/` → execução e interação com o usuário
 
-- 🎯 **Nomes profissionais** e descritivos para facilitar leitura e manutenção.
+## 🎯 Objetivo
 
----
+Construir uma base sólida em Java para o desenvolvimento de projetos maiores e aplicações backend.
 
-## 📈 Objetivo
+## 🚀 Tecnologias
 
-- Consolidar os conceitos fundamentais de **POO em Java**  
-- Praticar a criação de classes e estruturas orientadas a objetos  
-- Criar uma base de código organizada e reutilizável para seu portfólio profissional
+* Java
+* Git
+* GitHub
+* Linux
 
----
+## 👩‍💻 Autora
+
+Natalia Gilles
+Estudante de Desenvolvimento | Foco em Back-End
