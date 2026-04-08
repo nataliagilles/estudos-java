@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<dirs>
-    <entry loc="/usr/lib/jvm/java-26-openjdk" stamp="1773850662922"/>
-    <entry loc="/usr/lib/jvm/java-21-openjdk" stamp="1774379346840"/>
-    <entry loc="/usr/lib/jvm/java-25-openjdk" stamp="1765936117766"/>
-    <entry loc="/home/natalia/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.9.v20251105-0741" stamp="1765213409100"/>
-    <entry loc="/home/natalia/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.9.v20251105-0741/jre" stamp="1765213409100"/>
-</dirs>
