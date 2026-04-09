@@ -1,16 +1,15 @@
-package application;
+package ContactManager.application;
 
-
-import java.time.DateTimeException;
-import java.time.LocalDate;
-import java.util.List;
-import java.util.Optional;
-import java.util.Scanner;
-
+import ContactManager.model.Contato;
 import ContactManager.model.Especialidade;
 import ContactManager.service.ContatoService;
 import ContactManager.util.Validador;
-import model.Contato;
+
+import java.time.LocalDate;
+import java.time.DateTimeException;
+import java.util.List;
+import java.util.Optional;
+import java.util.Scanner;
 
 public class ConsoleUI {
     private final Scanner scanner;
@@ -70,6 +69,7 @@ public class ConsoleUI {
         }
     }
 
+    // ========= Métodos de cada caso =========
 
     private void adicionarContato() {
         String nome = lerNome();
@@ -174,6 +174,7 @@ public class ConsoleUI {
         }
     }
 
+    // ========== Métodos auxiliares de leitura ========
 
     private String lerNome() {
         System.out.print("Nome: ");
@@ -262,7 +263,7 @@ public class ConsoleUI {
             scanner.nextLine();
             try {
                 LocalDate.of(ano, mes, dia);
-                break;
+                break; 
             } catch (DateTimeException e) {
                 System.out.println("Dia inválido para o mês informado. Digite novamente.");
             }
