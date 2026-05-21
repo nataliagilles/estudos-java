@@ -3,8 +3,7 @@ package exercicios.poo.application;
 import java.util.Locale;
 import java.util.Scanner;
 
-
-import exercicios.poo.entities.Students;
+import exercicios.poo.entities.src.Students;
 
 public class ProgramStudents {
     public static void main(String[] args) {

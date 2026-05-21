@@ -1,4 +1,4 @@
-package exercicios.poo.entities;
+package exercicios.poo.entities.src;
 
 public class Account {
    

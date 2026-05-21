@@ -1,9 +1,11 @@
-package exercicios.poo.application;
+package exercicios.poo.application.src;
 
-import exercicios.poo.entities.Account;
+
+
 import java.util.Locale;
 import java.util.Scanner;
 
+import exercicios.poo.entities.src.Account;
 public class ProgramAccount {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
